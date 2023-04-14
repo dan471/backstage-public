@@ -13,7 +13,6 @@ metadata:
       icon: github
   annotations:
     dynatrace.com/dynatrace-entity-id: SERVICE-759A6D8A39A03733
-    dynatrace.com/synthetics-ids: SYNTHETIC_TEST-2848D0525FB408EB, HTTP_CHECK-B74F094BFC181F5C    
 spec:
   type: service
   lifecycle: experimental
