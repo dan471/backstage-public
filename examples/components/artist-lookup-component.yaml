@@ -30,7 +30,7 @@ metadata:
       icon: alert
   annotations:
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
-    dynatrace.com/synthetics-ids: HOST-B53000A74B39E9A2
+    dynatrace.com/dynatrace-entity-id: HOST-B53000A74B39E9A2
 spec:
   type: service
   lifecycle: experimental
