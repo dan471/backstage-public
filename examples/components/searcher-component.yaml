@@ -6,8 +6,9 @@ metadata:
   tags:
     - go
   annotations:
-    dynatrace.com/dynatrace-entity-id: SERVICE-759A6D8A39A03733, SERVICE-FC7CA15F83519D1C, SERVICE-FC1DF2270D37D6AB
-
+    dynatrace.com/dynatrace-entity-id: SERVICE-759A6D8A39A03733
+  annotations:
+    dynatrace.com/dynatrace-entity-id: SERVICE-FC1DF2270D37D6AB 
 spec:
   type: service
   lifecycle: production
