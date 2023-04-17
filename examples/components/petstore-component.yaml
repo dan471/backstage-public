@@ -12,9 +12,7 @@ metadata:
       title: GitHub Repo
       icon: github
   annotations:
-    dynatrace.com/dynatrace-entity-id: SERVICE-759A6D8A39A03733
-  annotations:
-    dynatrace.com/dynatrace-entity-id: SERVICE-3BCD3B0947F6131E
+    dynatrace.com/dynatrace-entity-id: SERVICE-759A6D8A39A03733 SERVICE-3BCD3B0947F6131E
  spec:
   type: service
   lifecycle: experimental
