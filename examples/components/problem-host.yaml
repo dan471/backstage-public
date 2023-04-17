@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: host-problem
-  description: Host Problem
+  name: problem-host
+  description: Problem Host
   tags:
     - java
     - data
