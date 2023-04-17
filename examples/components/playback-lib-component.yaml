@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: playback-sdk
   description: Audio and video playback SDK
+  annotations:
+    dynatrace.com/dynatrace-entity-id: SERVICE-FC1DF2270D37D6AB 
 spec:
   type: library
   lifecycle: experimental
