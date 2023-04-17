@@ -13,8 +13,9 @@ metadata:
       icon: github
   annotations:
     dynatrace.com/dynatrace-entity-id: SERVICE-759A6D8A39A03733
-    dynatrace.com/dynatrace-entity-id: SERVICE-FC7CA15F83519D1C
-spec:
+  annotations:
+    dynatrace.com/dynatrace-entity-id: SERVICE-3BCD3B0947F6131E
+ spec:
   type: service
   lifecycle: experimental
   owner: team-c
